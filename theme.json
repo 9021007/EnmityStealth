@@ -61,19 +61,19 @@
 		],
 		"BACKGROUND_PRIMARY":[
 		   "#000000",
-		   "#ffffff"
+		   "#000000"
 		],
 		"BACKGROUND_SECONDARY":[
-		   "#2f3136",
-		   "#f2f3f5"
+		   "#111111",
+		   "#111111"
 		],
 		"BACKGROUND_SECONDARY_ALT":[
-		   "#292b2f",
-		   "#ebedef"
+		   "#151515",
+		   "#151515"
 		],
 		"BACKGROUND_TERTIARY":[
-		   "#202225",
-		   "#e3e5e8"
+		   "#222222",
+		   "#222222"
 		],
 		"BACKGROUND_ACCENT":[
 		   "#4f545c",
