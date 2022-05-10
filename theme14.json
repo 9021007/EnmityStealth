@@ -1,5 +1,5 @@
 {
-	"name": "theme13",
+	"name": "theme14",
 	"author": "Bobrobot1#1408",
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
@@ -27,16 +27,16 @@
 	},
 	"colours": {
 		"PRIMARY_DARK": "#ffffff",
-		"PRIMARY_DARK_100": "#ffff00",
+		"PRIMARY_DARK_100": "#ffffff",
 		"PRIMARY_DARK_300": "#00ffff",
 		"PRIMARY_DARK_360": "#cccccc",
-		"PRIMARY_DARK_400": "#00ff00",
-		"PRIMARY_DARK_500": "#00ff00",
+		"PRIMARY_DARK_400": "#00cc00",
+		"PRIMARY_DARK_500": "#00cc00",
 		"PRIMARY_DARK_600": "#111111",
-		"PRIMARY_DARK_630": "#555555",
-		"PRIMARY_DARK_700": "#555555",
+		"PRIMARY_DARK_630": "#353535",
+		"PRIMARY_DARK_700": "#353535",
 		"PRIMARY_DARK_800": "#000000",
-		"BRAND_NEW": "#00ff00",
+		"BRAND_NEW": "#00cc00",
 		"WHITE": "#FFFFFF"
 	},
 	"unsafe_colors": {
