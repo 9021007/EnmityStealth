@@ -1,5 +1,5 @@
 {
-	"name": "theme10",
+	"name": "theme11",
 	"author": "Bobrobot1#1408",
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
@@ -8,7 +8,7 @@
 		"BACKGROUND_SECONDARY_ALT": ["#303030", "#FFFFFF"],
 		"BACKGROUND_TERTIARY": ["#252525", "#FFFFFF"],
 		"BACKGROUND_ACCENT": ["#000000", "#FFFFFF"],
-		"BACKGROUND_FLOATING": ["#ffff00", "#FFFFFF"],
+		"BACKGROUND_FLOATING": ["#555555", "#FFFFFF"],
 		"BACKGROUND_NESTED_FLOATING": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MOBILE_PRIMARY": ["#111111", "#FFFFFF"],
 		"BACKGROUND_MOBILE_SECONDARY": ["#202020", "#FFFFFF"],
@@ -35,7 +35,7 @@
 		"PRIMARY_DARK_600": "#ffffff",
 		"PRIMARY_DARK_630": "#555555",
 		"PRIMARY_DARK_700": "#555555",
-		"PRIMARY_DARK_800": "#ffffff",
+		"PRIMARY_DARK_800": "#000000",
 		"BRAND_NEW": "#00ff00",
 		"WHITE": "#FFFFFF"
 	},
