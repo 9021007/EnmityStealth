@@ -1,6 +1,6 @@
 {
-	"name": "theme5",
-	"author": "ur_mom#42069",
+	"name": "theme6",
+	"author": "Bobrobot1#1408",
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
 		"BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
@@ -30,12 +30,12 @@
 		"PRIMARY_DARK_100": "#101010",
 		"PRIMARY_DARK_300": "#303030",
 		"PRIMARY_DARK_360": "#363636",
-		"PRIMARY_DARK_400": "#ff0000",
+		"PRIMARY_DARK_400": "#00ff00",
 		"PRIMARY_DARK_500": "#505050",
-		"PRIMARY_DARK_600": "#606060",
-		"PRIMARY_DARK_630": "#636363",
-		"PRIMARY_DARK_700": "#707070",
-		"PRIMARY_DARK_800": "#808080",
+		"PRIMARY_DARK_600": "#4c566a",
+		"PRIMARY_DARK_630": "#434c5e",
+		"PRIMARY_DARK_700": "#3b4252",
+		"PRIMARY_DARK_800": "#2e3440",
 		"BRAND_NEW": "#FFFFFF",
 		"WHITE": "#FFFFFF"
 	},
