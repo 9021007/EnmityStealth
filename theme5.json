@@ -1,11 +1,11 @@
 {
-	"name": "theme4",
+	"name": "theme5",
 	"author": "ur_mom#42069",
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
-		"BACKGROUND_PRIMARY": ["#00ffff", "#FFFFFF"],
-		"BACKGROUND_SECONDARY": ["#ffff00", "#FFFFFF"],
-		"BACKGROUND_SECONDARY_ALT": ["#ff00ff", "#FFFFFF"],
+		"BACKGROUND_PRIMARY": ["#000000", "#FFFFFF"],
+		"BACKGROUND_SECONDARY": ["#202020", "#FFFFFF"],
+		"BACKGROUND_SECONDARY_ALT": ["#454545", "#FFFFFF"],
 		"BACKGROUND_TERTIARY": ["#252525", "#FFFFFF"],
 		"BACKGROUND_ACCENT": ["#000000", "#FFFFFF"],
 		"BACKGROUND_FLOATING": ["#000000", "#FFFFFF"],
