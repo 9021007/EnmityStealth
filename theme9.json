@@ -1,5 +1,5 @@
 {
-	"name": "theme8",
+	"name": "theme9",
 	"author": "Bobrobot1#1408",
 	"theme_color_map": {
 		"KEYBOARD": ["#000000", "#FFFFFF"],
@@ -16,27 +16,27 @@
 		"BACKGROUND_MODIFIER_ACTIVE": ["#000000", "#FFFFFF"],
 		"BACKGROUND_MODIFIER_SELECTED": ["#000000", "#FFFFFF"],
 		"CHANNELS_DEFAULT": ["#ffffff", "#FFFFFF"],
-		"HEADER_PRIMARY": ["#00ffff", "#FFFFFF"],
+		"HEADER_PRIMARY": ["#ffffff", "#FFFFFF"],
 		"HEADER_SECONDARY": ["#00ff00", "#FFFFFF"], 
 		"INTERACTIVE_ACTIVE": ["#000000", "#FFFFFF"],
 		"INTERACTIVE_MUTED": ["#000000", "#FFFFFF"],
 		"INTERACTIVE_NORMAL": ["#000000", "#FFFFFF"],
-		"TEXT_LINK": ["#ff00ff", "#FFFFFF"],
-		"TEXT_MUTED": ["#0000ff", "#FFFFFF"],
-		"TEXT_NORMAL": ["#00ffff", "#FFFFFF"]
+		"TEXT_LINK": ["#00ff00", "#FFFFFF"],
+		"TEXT_MUTED": ["#ffffff", "#FFFFFF"],
+		"TEXT_NORMAL": ["#ffffff", "#FFFFFF"]
 	},
 	"colours": {
-		"PRIMARY_DARK": "#000000",
-		"PRIMARY_DARK_100": "#101010",
-		"PRIMARY_DARK_300": "#ff0000",
-		"PRIMARY_DARK_360": "#363636",
+		"PRIMARY_DARK": "#ff0000",
+		"PRIMARY_DARK_100": "#ffff00",
+		"PRIMARY_DARK_300": "#00ffff",
+		"PRIMARY_DARK_360": "#ff00ff",
 		"PRIMARY_DARK_400": "#00ff00",
-		"PRIMARY_DARK_500": "#505050",
-		"PRIMARY_DARK_600": "#111111",
-		"PRIMARY_DARK_630": "#434c5e",
-		"PRIMARY_DARK_700": "#3b4252",
+		"PRIMARY_DARK_500": "#550000",
+		"PRIMARY_DARK_600": "#555500",
+		"PRIMARY_DARK_630": "#005555",
+		"PRIMARY_DARK_700": "#550055",
 		"PRIMARY_DARK_800": "#2e3440",
-		"BRAND_NEW": "#ff0000",
+		"BRAND_NEW": "#ffaaaa",
 		"WHITE": "#FFFFFF"
 	},
 	"unsafe_colors": {
