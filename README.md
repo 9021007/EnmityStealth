@@ -1,4 +1,4 @@
-# EnmityTerm
+# EnmityStealth
 
 ### A sleek, dark theme for [Enminy](https://github.com/enmity-mod/enmity).
 
